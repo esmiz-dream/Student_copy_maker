@@ -1,0 +1,22 @@
+.student-grade input{
+    text-transform: uppercase;
+    
+}
+body{
+   
+    margin-bottom: 100px;
+}
+.header{
+    position: static;
+}
+
+.login-form{
+    min-width: 50%;
+    width: 50%;
+    margin: 10vh auto;
+}
+
+.label{
+    width: max-content;
+    display: inline-block;
+}

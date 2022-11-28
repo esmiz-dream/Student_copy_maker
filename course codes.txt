@@ -1,0 +1,75 @@
+year 1     semister I
+
+ANAT201    4
+SOSA201     2
+FLEn101   3
+PHYL201   4
+Epsy201  3
+Chem202   3
+
+year 1     semister II
+Micro222  4
+NURS282   2
+PARA321   2
+NURS231   3
+NURS202   4
+NURS211  2
+
+year 2     semister I
+GeEd    4
+NURS331 2
+Pharm302  4
+NURS252   2
+
+year 2     semister II
+NURS301   4
+NURS341   3
+MIDW321    4
+MIDW312   3
+Nurs311   3
+MIDW322   2
+MIDW471  2
+
+year 3     semister I
+MIDW571  3
+MIDW451  3
+MIDW323  4
+NURS441  2
+MIDW412  4
+Comp2022  2
+
+year 3     semister II
+MIDW372  2
+FLEN201  3
+NURS442   4
+NURS481  2
+MIDW472  3
+NURS521  2
+
+year 4     semister I
+MIDW552  4
+MIDW431  3
+MIDW311  3
+STAT322  3
+MIDW482  2
+NURS462  2
+
+year 4     semister II
+MIDW525  3
+MIDW552  2
+MIDW522  3
+PHYL 202  2   
+ANAT 202   2 
+
+
+year 5     semister I
+MIDW542  2
+MIDW382   2
+NURS3144  2
+NURS561  2
+MIDW573  1
+MIDW532  2
+
+year 5     semister II
+NURS522  2
+MIDW562   2
