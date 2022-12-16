@@ -1453,7 +1453,7 @@
                                Pharm 302
                              </td>
                              <td>
-                               Pharmacology for midwives
+                               Pharmacology
                              </td>
                              <td align="center">
                                4
